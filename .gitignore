@@ -1,0 +1,9 @@
+target/
+*.iml
+bin/
+gen/
+local.properties
+/proguard-project.txt
+/project.properties
+/.classpath
+/.settings/

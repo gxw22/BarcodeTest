@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BarCodeTestActivity!</string>
+    <string name="app_name">BarCodeTest</string>
+    <string name="scan_title">扫描二维码</string>
+    <string name="cancelButtonText">返回</string>
+
+</resources>
